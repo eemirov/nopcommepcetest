@@ -1,0 +1,13 @@
+C:\Dev\nopCommerce_3.90_Source\Presentation\Nop.Web\Plugins\Tax.FixedOrByCountryStateZip\Views\_CountryStateZip.cshtml
+C:\Dev\nopCommerce_3.90_Source\Presentation\Nop.Web\Plugins\Tax.FixedOrByCountryStateZip\Description.txt
+C:\Dev\nopCommerce_3.90_Source\Presentation\Nop.Web\Plugins\Tax.FixedOrByCountryStateZip\web.config
+C:\Dev\nopCommerce_3.90_Source\Presentation\Nop.Web\Plugins\Tax.FixedOrByCountryStateZip\Views\_FixedRate.cshtml
+C:\Dev\nopCommerce_3.90_Source\Presentation\Nop.Web\Plugins\Tax.FixedOrByCountryStateZip\Views\Configure.cshtml
+C:\Dev\nopCommerce_3.90_Source\Presentation\Nop.Web\Plugins\Tax.FixedOrByCountryStateZip\logo.jpg
+C:\Dev\nopCommerce_3.90_Source\Presentation\Nop.Web\Plugins\Tax.FixedOrByCountryStateZip\Nop.Plugin.Tax.FixedOrByCountryStateZip.dll.config
+C:\Dev\nopCommerce_3.90_Source\Presentation\Nop.Web\Plugins\Tax.FixedOrByCountryStateZip\Nop.Plugin.Tax.FixedOrByCountryStateZip.dll
+C:\Dev\nopCommerce_3.90_Source\Presentation\Nop.Web\Plugins\Tax.FixedOrByCountryStateZip\Nop.Plugin.Tax.FixedOrByCountryStateZip.pdb
+C:\Dev\nopCommerce_3.90_Source\Plugins\Nop.Plugin.Tax.FixedOrByCountryStateZip\obj\Debug\Nop.Plugin.Tax.FixedOrByCountryStateZip.csproj.App.config
+C:\Dev\nopCommerce_3.90_Source\Plugins\Nop.Plugin.Tax.FixedOrByCountryStateZip\obj\Debug\Nop.Plugin.Tax.FixedOrByCountryStateZip.csprojResolveAssemblyReference.cache
+C:\Dev\nopCommerce_3.90_Source\Plugins\Nop.Plugin.Tax.FixedOrByCountryStateZip\obj\Debug\Nop.Plugin.Tax.FixedOrByCountryStateZip.dll
+C:\Dev\nopCommerce_3.90_Source\Plugins\Nop.Plugin.Tax.FixedOrByCountryStateZip\obj\Debug\Nop.Plugin.Tax.FixedOrByCountryStateZip.pdb

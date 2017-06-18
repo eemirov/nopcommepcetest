@@ -1,0 +1,11 @@
+C:\Dev\nopCommerce_3.90_Source\Presentation\Nop.Web\Plugins\Shipping.AustraliaPost\Views\Configure.cshtml
+C:\Dev\nopCommerce_3.90_Source\Presentation\Nop.Web\Plugins\Shipping.AustraliaPost\Description.txt
+C:\Dev\nopCommerce_3.90_Source\Presentation\Nop.Web\Plugins\Shipping.AustraliaPost\web.config
+C:\Dev\nopCommerce_3.90_Source\Presentation\Nop.Web\Plugins\Shipping.AustraliaPost\logo.jpg
+C:\Dev\nopCommerce_3.90_Source\Presentation\Nop.Web\Plugins\Shipping.AustraliaPost\Nop.Plugin.Shipping.AustraliaPost.dll.config
+C:\Dev\nopCommerce_3.90_Source\Presentation\Nop.Web\Plugins\Shipping.AustraliaPost\Nop.Plugin.Shipping.AustraliaPost.dll
+C:\Dev\nopCommerce_3.90_Source\Presentation\Nop.Web\Plugins\Shipping.AustraliaPost\Nop.Plugin.Shipping.AustraliaPost.pdb
+C:\Dev\nopCommerce_3.90_Source\Plugins\Nop.Plugin.Shipping.AustraliaPost\obj\Debug\Nop.Plugin.Shipping.AustraliaPost.csproj.App.config
+C:\Dev\nopCommerce_3.90_Source\Plugins\Nop.Plugin.Shipping.AustraliaPost\obj\Debug\Nop.Plugin.Shipping.AustraliaPost.csprojResolveAssemblyReference.cache
+C:\Dev\nopCommerce_3.90_Source\Plugins\Nop.Plugin.Shipping.AustraliaPost\obj\Debug\Nop.Plugin.Shipping.AustraliaPost.dll
+C:\Dev\nopCommerce_3.90_Source\Plugins\Nop.Plugin.Shipping.AustraliaPost\obj\Debug\Nop.Plugin.Shipping.AustraliaPost.pdb

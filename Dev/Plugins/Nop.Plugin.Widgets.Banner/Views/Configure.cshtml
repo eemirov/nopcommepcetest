@@ -1,0 +1,51 @@
+﻿@{
+	Layout = "";
+}
+@using Nop.Web.Framework
+@model Nop.Plugin.Widgets.Banner.Models.ConfigurationModel
+
+@Html.Action("StoreScopeConfiguration", "Setting", new { area = "Admin" })
+
+@using (Html.BeginForm())
+{
+	@Html.AntiForgeryToken()
+	<div class="panel-group">
+		<div class="panel panel-default">
+			<div class="panel-heading">
+				@T("Plugins.Widgets.Banner.Title")
+			</div>
+			<div class="panel-body">
+				<div class="form-group">
+					<div class="col-md-3">
+						@Html.OverrideStoreCheckboxFor(model => model.BannerText_OverrideForStore, model => model.BannerText_OverrideForStore, Model.ActiveStoreScopeConfiguration)
+						@Html.NopLabelFor(model => model.BannerText)
+					</div>
+					<div class="col-md-9">
+						@Html.EditorFor(model => model.BannerText, "RichEditor")
+						@Html.ValidationMessageFor(model => model.BannerText)
+					</div>
+					<div class="col-md-3">
+						@Html.OverrideStoreCheckboxFor(model => model.IsVisible_OverrideForStore, model => model.IsVisible_OverrideForStore, Model.ActiveStoreScopeConfiguration)
+						@Html.NopLabelFor(model => model.IsVisible)
+					</div>
+					<div class="col-md-9">
+						@Html.CheckBoxFor(model => model.IsVisible)
+						@Html.ValidationMessageFor(model => model.IsVisible)
+					</div>
+				</div>
+			</div>
+		</div>
+		<div class="panel panel-default">
+			<div class="panel-body">
+				<div class="form-group">
+					<div class="col-md-3">
+						&nbsp;
+					</div>
+					<div class="col-md-9">
+						<input type="submit" name="save" class="btn bg-blue" value="@T("Admin.Common.Save")" />
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+}

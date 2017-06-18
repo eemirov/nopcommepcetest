@@ -1,0 +1,9 @@
+Group: Widgets
+FriendlyName: Banner
+SystemName: Widgets.Banner
+Version: 1.11
+SupportedVersions: 3.90
+Author: nopCommerce team
+DisplayOrder: 1
+FileName: Nop.Plugin.Widgets.Banner.dll
+Description: This plugin allows you to show a simple html content on the pages

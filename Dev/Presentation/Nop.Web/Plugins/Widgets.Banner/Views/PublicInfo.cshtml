@@ -1,0 +1,15 @@
+﻿@using Nop.Web.Framework.UI
+@model Nop.Plugin.Widgets.Banner.Models.PublicInfoModel
+
+@{
+	Layout = "";
+	Html.AddCssFileParts("~/Plugins/Widgets.Banner/Content/banner.css");
+
+}
+
+@if (Model.IsVisible)
+{
+	<div class="banner-widget">
+		@Html.Raw(Model.BannerText)
+	</div>
+}

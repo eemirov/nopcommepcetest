@@ -1,0 +1,16 @@
+C:\Dev\nopCommerce_3.90_Source\Presentation\Nop.Web\Plugins\Shipping.FixedOrByWeight\Description.txt
+C:\Dev\nopCommerce_3.90_Source\Presentation\Nop.Web\Plugins\Shipping.FixedOrByWeight\web.config
+C:\Dev\nopCommerce_3.90_Source\Presentation\Nop.Web\Plugins\Shipping.FixedOrByWeight\Views\Configure.cshtml
+C:\Dev\nopCommerce_3.90_Source\Presentation\Nop.Web\Plugins\Shipping.FixedOrByWeight\Views\_CreateOrUpdateRateByWeight.cshtml
+C:\Dev\nopCommerce_3.90_Source\Presentation\Nop.Web\Plugins\Shipping.FixedOrByWeight\Views\AddRateByWeightPopup.cshtml
+C:\Dev\nopCommerce_3.90_Source\Presentation\Nop.Web\Plugins\Shipping.FixedOrByWeight\Views\EditRateByWeightPopup.cshtml
+C:\Dev\nopCommerce_3.90_Source\Presentation\Nop.Web\Plugins\Shipping.FixedOrByWeight\Views\_ByWeight.cshtml
+C:\Dev\nopCommerce_3.90_Source\Presentation\Nop.Web\Plugins\Shipping.FixedOrByWeight\Views\_FixedRate.cshtml
+C:\Dev\nopCommerce_3.90_Source\Presentation\Nop.Web\Plugins\Shipping.FixedOrByWeight\logo.jpg
+C:\Dev\nopCommerce_3.90_Source\Presentation\Nop.Web\Plugins\Shipping.FixedOrByWeight\Nop.Plugin.Shipping.FixedOrByWeight.dll.config
+C:\Dev\nopCommerce_3.90_Source\Presentation\Nop.Web\Plugins\Shipping.FixedOrByWeight\Nop.Plugin.Shipping.FixedOrByWeight.dll
+C:\Dev\nopCommerce_3.90_Source\Presentation\Nop.Web\Plugins\Shipping.FixedOrByWeight\Nop.Plugin.Shipping.FixedOrByWeight.pdb
+C:\Dev\nopCommerce_3.90_Source\Plugins\Nop.Plugin.Shipping.FixedOrByWeight\obj\Debug\Nop.Plugin.Shipping.FixedOrByWeight.csproj.App.config
+C:\Dev\nopCommerce_3.90_Source\Plugins\Nop.Plugin.Shipping.FixedOrByWeight\obj\Debug\Nop.Plugin.Shipping.FixedOrByWeight.csprojResolveAssemblyReference.cache
+C:\Dev\nopCommerce_3.90_Source\Plugins\Nop.Plugin.Shipping.FixedOrByWeight\obj\Debug\Nop.Plugin.Shipping.FixedOrByWeight.dll
+C:\Dev\nopCommerce_3.90_Source\Plugins\Nop.Plugin.Shipping.FixedOrByWeight\obj\Debug\Nop.Plugin.Shipping.FixedOrByWeight.pdb

@@ -1,0 +1,11 @@
+C:\Dev\nopCommerce_3.90_Source\Presentation\Nop.Web\Plugins\Widgets.Banner\Description.txt
+C:\Dev\nopCommerce_3.90_Source\Presentation\Nop.Web\Plugins\Widgets.Banner\web.config
+C:\Dev\nopCommerce_3.90_Source\Presentation\Nop.Web\Plugins\Widgets.Banner\Nop.Plugin.Widgets.Banner.dll
+C:\Dev\nopCommerce_3.90_Source\Presentation\Nop.Web\Plugins\Widgets.Banner\Nop.Plugin.Widgets.Banner.pdb
+C:\Dev\nopCommerce_3.90_Source\Plugins\Nop.Plugin.Widgets.Banner\obj\Debug\Nop.Plugin.Widgets.Banner.csprojResolveAssemblyReference.cache
+C:\Dev\nopCommerce_3.90_Source\Plugins\Nop.Plugin.Widgets.Banner\obj\Debug\Nop.Plugin.Widgets.Banner.dll
+C:\Dev\nopCommerce_3.90_Source\Plugins\Nop.Plugin.Widgets.Banner\obj\Debug\Nop.Plugin.Widgets.Banner.pdb
+C:\Dev\nopCommerce_3.90_Source\Presentation\Nop.Web\Plugins\Widgets.Banner\logo.jpg
+C:\Dev\nopCommerce_3.90_Source\Presentation\Nop.Web\Plugins\Widgets.Banner\Views\Configure.cshtml
+C:\Dev\nopCommerce_3.90_Source\Presentation\Nop.Web\Plugins\Widgets.Banner\Views\PublicInfo.cshtml
+C:\Dev\nopCommerce_3.90_Source\Presentation\Nop.Web\Plugins\Widgets.Banner\Content\banner.css

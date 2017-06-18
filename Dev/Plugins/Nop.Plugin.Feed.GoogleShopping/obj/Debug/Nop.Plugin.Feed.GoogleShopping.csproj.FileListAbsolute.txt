@@ -1,0 +1,12 @@
+C:\Dev\nopCommerce_3.90_Source\Presentation\Nop.Web\Plugins\Feed.GoogleShopping\Content\styles.css
+C:\Dev\nopCommerce_3.90_Source\Presentation\Nop.Web\Plugins\Feed.GoogleShopping\Views\Configure.cshtml
+C:\Dev\nopCommerce_3.90_Source\Presentation\Nop.Web\Plugins\Feed.GoogleShopping\Description.txt
+C:\Dev\nopCommerce_3.90_Source\Presentation\Nop.Web\Plugins\Feed.GoogleShopping\web.config
+C:\Dev\nopCommerce_3.90_Source\Presentation\Nop.Web\Plugins\Feed.GoogleShopping\logo.jpg
+C:\Dev\nopCommerce_3.90_Source\Presentation\Nop.Web\Plugins\Feed.GoogleShopping\Nop.Plugin.Feed.GoogleShopping.dll.config
+C:\Dev\nopCommerce_3.90_Source\Presentation\Nop.Web\Plugins\Feed.GoogleShopping\Nop.Plugin.Feed.GoogleShopping.dll
+C:\Dev\nopCommerce_3.90_Source\Presentation\Nop.Web\Plugins\Feed.GoogleShopping\Nop.Plugin.Feed.GoogleShopping.pdb
+C:\Dev\nopCommerce_3.90_Source\Plugins\Nop.Plugin.Feed.GoogleShopping\obj\Debug\Nop.Plugin.Feed.GoogleShopping.csproj.App.config
+C:\Dev\nopCommerce_3.90_Source\Plugins\Nop.Plugin.Feed.GoogleShopping\obj\Debug\Nop.Plugin.Feed.GoogleShopping.csprojResolveAssemblyReference.cache
+C:\Dev\nopCommerce_3.90_Source\Plugins\Nop.Plugin.Feed.GoogleShopping\obj\Debug\Nop.Plugin.Feed.GoogleShopping.dll
+C:\Dev\nopCommerce_3.90_Source\Plugins\Nop.Plugin.Feed.GoogleShopping\obj\Debug\Nop.Plugin.Feed.GoogleShopping.pdb
